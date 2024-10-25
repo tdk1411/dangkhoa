@@ -24,7 +24,7 @@
 </head>
 <body>
     <h1>Hộp quà bí mật</h1>
-    <img id="gift" src="https://example.com/gift-box.jpg" alt="Hộp quà" />
+    <img id="gift" src="https://png.pngtree.com/png-clipart/20220125/original/pngtree-gift-box-gift-box-png-image_7213113.png" alt="Hộp quà" />
     <div id="message">bắn em vay 500</div>
 
     <script>
