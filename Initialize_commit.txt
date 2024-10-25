@@ -24,7 +24,7 @@
 <body>
     <h1>Hộp quà bí mật</h1>
     <img id="gift" src="https://example.com/gift-box.jpg" alt="Hộp quà" />
-    <div id="message">I Love U</div>
+    <div id="message">bắn em vay 500</div>
 
     <script>
         document.getElementById('gift').addEventListener('click', function() {
