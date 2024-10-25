@@ -1,19 +1,37 @@
-# HTML creator
-* File:     Tkweb
-* Author:   Trinh Ngoc Dang Khoa
-* Version:  1.0
-* Date:     Aug/22/2024
-* Brief:    My Web Design home work
 
-# Prerequisites
-* git       2.46.0.windows.1
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hộp quà bất ngờ</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        #gift {
+            width: 200px;
+            height: 200px;
+            cursor: pointer;
+        }
+        #message {
+            font-size: 24px;
+            color: red;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hộp quà bí mật</h1>
+    <img id="gift" src="https://example.com/gift-box.jpg" alt="Hộp quà" />
+    <div id="message">bắn em vay 500</div>
 
-# How to open my website
-* Register an account on git hub: https://github.com/
-* Create a new folder to clone my repo. Eg: Khoa_Repo
-* Right click -> Open Git Bash here
-* Set up your account by command:
-* 1. git config --global user.name "Your Name"
-* 2. git config --global user.email "YourEmail@example.com"
-* Clone my repo: git clone https://github.com/tdk1411/tkweb.git
-* Open Tkweb.html file with Google Chrome
+    <script>
+        document.getElementById('gift').addEventListener('click', function() {
+            this.style.display = 'none';
+            document.getElementById('message').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
