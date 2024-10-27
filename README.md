@@ -5,6 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thể loại sách</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .categories {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+
         .category {
             display: inline-block;
             width: 200px;
@@ -13,7 +33,8 @@
         }
         .category img {
             width: 100%;
-            height: auto;
+            height: 250px;
+            object-fit: cover;
             border-radius: 8px;
         }
         .category h3 {
@@ -26,23 +47,23 @@
     <h1>Thể loại sách</h1>
     <div class="categories">
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van-1.jpg" alt="Văn học">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Văn học">
             <h3>Văn học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc.jpg" alt="Khoa học">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Khoa học">
             <h3>Khoa học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su.jpg" alt="Lịch sử">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Lịch sử">
             <h3>Lịch sử</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh.jpg" alt="Kinh doanh">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Kinh doanh">
             <h3>Kinh doanh</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi.jpg" alt="Thiếu nhi">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Thiếu nhi">
             <h3>Thiếu nhi</h3>
         </div>
     </div>
