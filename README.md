@@ -57,7 +57,7 @@
     <div class="categories">
         <div class="category">
             <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van_hoc_v2.jpg?raw=true" alt="Văn học">
-            <a href="https://github.com/tdk1411/TkWeb_Group10/blob/main/VI_1.html">
+            <a href="https://nhasachmienphi.com/category/van-hoc-viet-nam">
               <button>Văn học</button>
             </a>
         </div>
