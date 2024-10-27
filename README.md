@@ -56,26 +56,40 @@
     <h1>Thể loại sách</h1>
     <div class="categories">
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van_hoc_v2.jpg?raw=true" alt="Văn học">
-            <a href="https://nhasachmienphi.com/category/van-hoc-viet-nam">
-              <button>Văn học</button>
+            <img src="https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-120-mon-sup-bo-duong-cho-tre-em-va-nguoi-benh.jpg?raw=true" alt="Ẩm thực - Nấu ăn">
+            <a href="https://nhasachmienphi.com/category/am-thuc-nau-an">
+              <button>Ẩm thực - Nấu ăn</button>
             </a>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc_v2.jpg?raw=true" alt="Khoa học">
-            <h3>Khoa học</h3>
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van_hoc_v2.jpg?raw=true" alt="Văn Học Việt Nam">
+            <a href="https://nhasachmienphi.com/category/van-hoc-viet-nam">
+              <button>Văn Học Việt Nam</button>
+            </a>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su_v2.jpg?raw=true" alt="Lịch sử">
-            <h3>Lịch sử</h3>
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc_v2.jpg?raw=true" alt="Khoa Học - Kỹ Thuật">
+            <a href="https://nhasachmienphi.com/category/khoa-hoc-ky-thuat">
+              <button>Khoa Học - Kỹ Thuật</button>
+            </a>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh_v2.jpg?raw=true" alt="Kinh doanh">
-            <h3>Kinh doanh</h3>
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su_v2.jpg?raw=true" alt="Lịch Sử - Chính Trị">
+            <a href="https://nhasachmienphi.com/category/lich-su-chinh-tri">
+              <button>Lịch Sử - Chính Trị</button>
+            </a>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi_v2.jpg?raw=true" alt="Thiếu nhi">
-            <h3>Thiếu nhi</h3>
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh_v2.jpg?raw=true" alt="Kinh Tế - Quản Lý">
+            <a href="https://nhasachmienphi.com/category/kinh-te-quan-ly">
+              <button>Kinh Tế - Quản Lý</button>
+            </a>
+        </div>
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi_v2.jpg?raw=true" alt="Cổ Tích - Thần Thoại">
+            <a href="https://nhasachmienphi.com/category/co-tich-than-thoai">
+              <button>Cổ Tích - Thần Thoại</button>
+            </a>
         </div>
     </div>
 </body>
