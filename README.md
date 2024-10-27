@@ -85,7 +85,7 @@
             </a>
         </div>
         <div class="category">
-            <img src="https://nhasachmienphi.com/wp-content/uploads/day-con-lam-giau-tap-6-sach-noi.jpg?raw=true" alt="Sách nói miễn phí">
+            <img src="https://nhasachmienphi.com/wp-content/uploads/khoa-hoc-livestream.png?raw=true" alt="Sách nói miễn phí">
             <a href="https://nhasachmienphi.com/category/sach-noi-mien-phi">
               <button>Sách nói miễn phí</button>
             </a>
