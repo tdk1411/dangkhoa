@@ -26,23 +26,23 @@
     <h1>Thể loại sách</h1>
     <div class="categories">
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Văn học">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van-1.jpg" alt="Văn học">
             <h3>Văn học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Khoa học">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc.jpg" alt="Khoa học">
             <h3>Khoa học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Lịch sử">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su.jpg" alt="Lịch sử">
             <h3>Lịch sử</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Kinh doanh">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh.jpg" alt="Kinh doanh">
             <h3>Kinh doanh</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Thiếu nhi">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi.jpg" alt="Thiếu nhi">
             <h3>Thiếu nhi</h3>
         </div>
     </div>
