@@ -56,7 +56,11 @@
     <h1>Thể loại sách</h1>
     <div class="categories">
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van_hoc_v2.jpg" alt="Văn học">
+            <p>
+                <a href="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/van_hoc_v2.jpg">
+                    <img alt="Văn học" src="" width="100" height="100">
+                </a>
+            </p>
             <h3>Văn học</h3>
         </div>
         <div class="category">
