@@ -85,9 +85,9 @@
             </a>
         </div>
         <div class="category">
-            <img src="https://nhasachmienphi.com/wp-content/uploads/khoa-hoc-capcut-mien-phi.jpg?raw=true" alt="Sách nói miễn phí">
+            <img src="https://nhasachmienphi.com/wp-content/uploads/khoa-hoc-capcut-mien-phi.jpg?raw=true" alt="Sách Nói Miễn Phí">
             <a href="https://nhasachmienphi.com/category/sach-noi-mien-phi">
-              <button>Sách nói miễn phí</button>
+              <button>Sách Nói Miễn Phí</button>
             </a>
         </div>
         <div class="category">
