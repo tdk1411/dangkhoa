@@ -1,37 +1,50 @@
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hộp quà bất ngờ</title>
+    <title>Thể loại sách</title>
     <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-        #gift {
+        .category {
+            display: inline-block;
             width: 200px;
-            height: 200px;
-            cursor: pointer;
+            text-align: center;
+            margin: 20px;
         }
-        #message {
-            font-size: 24px;
-            color: red;
-            display: none;
+        .category img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .category h3 {
+            margin-top: 10px;
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
-    <h1>Hộp quà bí mật</h1>
-    <img id="gift" src="https://png.pngtree.com/png-clipart/20220125/original/pngtree-gift-box-gift-box-png-image_7213113.png" alt="Hộp quà" />
-    <div id="message">bắn em vay 500</div>
-
-    <script>
-        document.getElementById('gift').addEventListener('click', function() {
-            this.style.display = 'none';
-            document.getElementById('message').style.display = 'block';
-        });
-    </script>
+    <h1>Thể loại sách</h1>
+    <div class="categories">
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Văn học">
+            <h3>Văn học</h3>
+        </div>
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Khoa học">
+            <h3>Khoa học</h3>
+        </div>
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Lịch sử">
+            <h3>Lịch sử</h3>
+        </div>
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Kinh doanh">
+            <h3>Kinh doanh</h3>
+        </div>
+        <div class="category">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/1.jpg" alt="Thiếu nhi">
+            <h3>Thiếu nhi</h3>
+        </div>
+    </div>
 </body>
 </html>
